@@ -1,4 +1,5 @@
 # cozy_apps
+![Group 1](https://user-images.githubusercontent.com/61952913/109316428-324c3680-787e-11eb-9329-ebddac6a3507.png)
 
 A new Flutter project.
 
